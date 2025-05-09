@@ -51,11 +51,6 @@
       "version": "0.1.5"
     },
     {
-      "name": "好听轻音乐",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/htqyy.js",
-      "version": "0.1.0"
-    },
-    {
       "name": "小枸音乐",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaogou.js",
       "version": "0.0.2"
